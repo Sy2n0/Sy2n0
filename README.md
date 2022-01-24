@@ -10,7 +10,7 @@
 안녕하세요 ! Syno라는 닉네임으로 CTF와 프로젝트 및 개발 등을 진행하며 T3N4CI0US 팀을 이끌고 있는 학생입니다 !
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CYB3R-Syno)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sy2n0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYB3R-Syno&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyb3r_syno)](https://solved.ac/cyb3r_syno) -->
