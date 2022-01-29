@@ -1,6 +1,6 @@
 👋 Hi there 👋
 
-[![Github Followers](https://img.shields.io/github/followers/CYB3R-Syno?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/CYB3R-Syno?tab=followers)
+[![Github Followers](https://img.shields.io/github/followers/Sy2n0?color=009300&label=Github%20Followers&style=for-the-badge)](https://github.com/CYB3R-Syno?tab=followers)
 
 <p>
   <a href="https://cyb3r-syno.herokuapp.com" target="_blank"><img src="https://img.shields.io/badge/Syno Site-430098?style=for-the-badge&logo=Heroku&logoColor=white"/></a>
