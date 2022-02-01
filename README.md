@@ -23,6 +23,7 @@
 * Metared CTF 5th Stage 9등 : 해외 CTF / 팀전
 * CSC CTF 2022 7등 : 해외 CTF / 팀전
 <hr>
+
 * Christmas CTF 개최 (Normaltic & T3N4CI0US)
 * 설 CTF 개최 (T3N4CI0US)
 
