@@ -13,19 +13,9 @@
       <br>
         Syno 라는 닉네임으로 CTF와 프로젝트 및 개발 등을 진행하며 T3N4CI0US 팀을 이끌고 있는 학생입니다 !
     </p>
-    <div align="center">
-        <p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=jopraveen&theme=Sy2n0" alt="candida18"  />
-        </p>
-        <p align="center">
-            <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sy2n0&theme=dark&show_icons=true&count_private=true" />
-        </p>
-        <br>
-        <br>
-    </div>
 </div>
  
-## Activity     
+## 🚩 Activity     
 
 ### 참가     
  FweeFwop CTF 3등 : 해외 CTF / 개인전     
@@ -39,9 +29,19 @@
  Christmas CTF 개최 (Normaltic & T3N4CI0US)     
  설 CTF 개최 (T3N4CI0US)     
 
-## Affiliation     
+## 💻 Affiliation     
  T3N4CI0US 팀장     
  Anti-root 소속     
+ 
+## 🔥 Stat
+<div align="center">
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jopraveen&theme=Sy2n0" alt="candida18"  />
+    </p>
+    <p align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sy2n0&theme=dark&show_icons=true&count_private=true" />
+    </p>
+</div>
 
 ## Contact     
  scover1234@naver.com 개인 업무용 이메일 (for personal business)     
