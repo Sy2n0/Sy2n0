@@ -2,7 +2,7 @@
     👋 Hi there 👋 
     <br>
     <br>
-    <a href="https://cyb3r-syno.herokuapp.com" target="_blank">
+    <a href="https://sy2n0.me" target="_blank">
         <img src="https://img.shields.io/badge/Syno Site-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
     </a>
     <a href="https://www.instagram.com/t3n4ci0us_syno" target="_blank">
