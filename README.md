@@ -28,7 +28,7 @@
      
  Christmas CTF 개최 (Normaltic & T3N4CI0US)     
  설 CTF 개최 (T3N4CI0US)     
- T3N4CI0US 2022 개최 (Latent_Hacker & T3N4CI0US)
+ Basic CTF 2022 개최 (Latent_Hacker & T3N4CI0US)
 
 ## 💻 Affiliation     
  T3N4CI0US 팀장     
