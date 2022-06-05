@@ -34,8 +34,6 @@
 
 ## 💻 Affiliation     
  T3N4CI0US 팀장     
- Anti-root 소속     
- Fluffy Wolves 소속     
  
 ## 🔥 Stat
 <div align="center">
