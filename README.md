@@ -11,9 +11,9 @@
         <img src="https://img.shields.io/badge/Syno-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
     <p align="center">
-        안녕하세요 !      
+        Hi :D      
       <br>
-        Syno 라는 닉네임으로 CTF와 프로젝트 및 개발 등을 진행하며 T3N4CI0US 팀을 이끌고 있는 학생입니다 !
+        I am a student who leads the T3N4CI0US team by conducting projects and development with CTF under the nickname Sy2n0!
     </p>
 </div>
  
