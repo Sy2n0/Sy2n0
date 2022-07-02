@@ -1,39 +1,43 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-<div align="center">
-    👋 Hi there 👋 
-    <br>
-    <br>
-    <a href="https://sy2n0.me" target="_blank">
-        <img src="https://img.shields.io/badge/Syno Site-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
-    </a>
-    <a href="https://www.instagram.com/t3n4ci0us_syno" target="_blank">
-        <img src="https://img.shields.io/badge/Syno-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>
-    <p align="center">
-        Hi :D      
-      <br>
-        I am a student who leads the T3N4CI0US team by conducting projects and development with CTF under the nickname Sy2n0!
-    </p>
-</div>
+## 19년째 주분야를 찾아다니는 학생
  
-## 🚩 Activity     
+## Profile
 
-### 참가     
- FweeFwop CTF 3등 : 해외 CTF / 개인전     
- Damncon CTF 5등 : 해외 CTF / 팀전     
- TFC CTF 2021 14등 : 해외 CTF / 팀전     
- nite CTF 2021 13등 : 해외 CTF / 팀전     
- Metared CTF 5th Stage 9등 : 해외 CTF / 팀전     
- CSC CTF 2022 7등 : 해외 CTF / 팀전     
-### 주최     
-     
- Christmas CTF 개최 (Normaltic & T3N4CI0US)     
- 설 CTF 개최 (T3N4CI0US)     
- T3N4CI0US CTF 2022 개최 (Latent_Hacker & T3N4CI0US)
+* T3N4CI0US 팀장 ( 2019.5 ~ )
+* 현대오토에버 화이트해커 양성 교육 ( 2022 )
+* T3N4CI0US CTF - Christmas 출제자 ( Pwnable, Crypto )
+* T3N4CI0US CTF - 설날 출제자 ( Pwnable )
+* T3N4CI0US CTF 2022 출제자 ( Pwnable, Crypto )
+* T3N4CI0US CTF - Escape 출제자 ( Pwnable, Crypto, Reversing )
 
-## 💻 Affiliation     
- T3N4CI0US 팀장     
+***
+
+## 🚩 CTF Activity     
+
++ 2021
+    + Tamil CTF 19등 ( 팀전 )
+    + Digital Overdose 30등 ( 팀전 )
+    + FweeFwop CTF 3등 ( 개인전 )
+    + DamnCon 5등 ( 팀전 )
+    + TFC CTF 14등 ( 팀전 )
+    + Metared CTF 5th Stage 9등 ( 팀전 )
+    + niteCTF 13등 ( 팀전 )
+    
++ 2022
+    + CSC CTF 7등 ( 팀전 )
+    + Digital Overdose 10등 ( 팀전 )
+    
+  ***
+    
+ 
+## 🚩 CTF Hosting   
+ T3N4CI0US CTF - Christmas 주최 (Normaltic & T3N4CI0US)     
+ T3N4CI0US CTF - 설날 주최 (T3N4CI0US)     
+ T3N4CI0US CTF 2022 주최 (Latent_Hacker & T3N4CI0US)
+ T3N4CI0US CTF - Escape 주최
+ 
+ ***
  
 ## 🔥 Stat
 <div align="center">
@@ -46,7 +50,8 @@
 </div>
 
 ## Contact     
- scover1234@naver.com 개인 업무용 이메일 (for personal business)     
- t3n4ci0us@naver.com [T3N4CI0US] 업무용 이메일 (for team business)
+ * 양지용(Jiyong Yang)
+ * scover1234@naver.com 개인 업무용 이메일 (for personal business)     
+ * t3n4ci0us@naver.com [T3N4CI0US] 업무용 이메일 (for team business)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
