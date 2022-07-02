@@ -34,7 +34,7 @@
 ## 🚩 CTF Hosting   
  T3N4CI0US CTF - Christmas 주최 (Normaltic & T3N4CI0US)     
  T3N4CI0US CTF - 설날 주최 (T3N4CI0US)     
- T3N4CI0US CTF 2022 주최 (Latent_Hacker & T3N4CI0US)
+ T3N4CI0US CTF 2022 주최 (Latent_Hacker & T3N4CI0US)     
  T3N4CI0US CTF - Escape 주최
  
  ***
