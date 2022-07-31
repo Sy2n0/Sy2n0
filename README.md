@@ -7,9 +7,9 @@
 * T3N4CI0US 팀장 ( 2019.5 ~ )
 * 현대오토에버 화이트해커 양성 교육 ( 2022 )
 * T3N4CI0US CTF - Christmas 출제자 ( Pwnable, Crypto )
-* T3N4CI0US CTF - 설날 출제자 ( Pwnable )
+* T3N4CI0US CTF - 설날 출제자 ( MISC )
 * T3N4CI0US CTF 2022 출제자 ( Pwnable, Crypto )
-* T3N4CI0US CTF - Escape 출제자 ( Pwnable, Crypto, Reversing )
+* T3N4CI0US CTF - Escape 출제자 ( Pwnable, Crypto, Reversing, Web, Forensic )
 
 ***
 
