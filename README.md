@@ -18,7 +18,7 @@
 + 2021
     + Tamil CTF 19등 ( 팀전 )
     + Digital Overdose 30등 ( 팀전 )
-    + 🥉FweeFwop CTF 3등 ( 개인전 )
+    + FweeFwop CTF 3등 ( 개인전 ) 🥉
     + DamnCon 5등 ( 팀전 )
     + TFC CTF 14등 ( 팀전 )
     + Metared CTF 5th Stage 9등 ( 팀전 )
