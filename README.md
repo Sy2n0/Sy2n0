@@ -31,7 +31,6 @@
     + CSC CTF 7등 ( 팀전 )
     + wtfctf 2022 8등 ( 팀전 )
     + Digital Overdose Conference 2022 CTF ( 팀전 )
-    + 
     
   ***
     
