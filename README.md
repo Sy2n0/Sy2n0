@@ -42,16 +42,6 @@
  T3N4CI0US CTF - Escape 주최
  
  ***
- 
-## 🔥 Stat
-<div align="center">
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jopraveen&theme=Sy2n0" alt="candida18"  />
-    </p>
-    <p align="center">
-        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Sy2n0&theme=dark&show_icons=true&count_private=true" />
-    </p>
-</div>
 
 ## Contact     
  * 양지용(Jiyong Yang)
