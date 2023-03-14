@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-## 19년째 주분야를 찾아다니는 학생
+## 20년째 주분야를 찾아다니는 학생
  
 ## Profile
 
