@@ -4,6 +4,7 @@
  
 ## Profile
 
+* 백석대학교 HUB ( 2023 ~ )
 * T3N4CI0US 팀장 ( 2019.5 ~ )
 * 인코그니토 2021 프로젝트 및 행사 참가 ( Anti-root )
 * KSCY 17 STAFF ( 청소년 )
