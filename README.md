@@ -49,4 +49,6 @@
  * scover1234@naver.com 개인 업무용 이메일 (for personal business)     
  * service@t3n4ci0us.kr [T3N4CI0US] 업무용 이메일 (for team business)
 
+ ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
