@@ -8,7 +8,7 @@
 * T3N4CI0US 팀장 ( 2019.5 ~ )
 * 인코그니토 2021 프로젝트 및 행사 참가 ( Anti-root )
 * KSCY 17 STAFF ( 청소년 )
-* 현대오토에버 화이트해커 양성 교육 ( 2022 )
+* 현대오토에버 화이트해커 양성 교육 ( 2022 & 우수 장학생 )
 * T3N4CI0US CTF - Christmas 출제자 ( Pwnable, Crypto )
 * T3N4CI0US CTF - 설날 출제자 ( MISC )
 * T3N4CI0US CTF 2022 출제자 ( Pwnable, Crypto )
