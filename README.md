@@ -39,16 +39,16 @@
 ## 🚩 CTF Hosting   
 + T3N4CI0US CTF - Christmas 주최 (Normaltic & T3N4CI0US)     
 + T3N4CI0US CTF - 설날 주최 (T3N4CI0US)
-+  T3N4CI0US CTF 2022 주최 (Latent_Hacker & T3N4CI0US)
-+  T3N4CI0US CTF - Escape 주최
-+  ESCAPE CTF 2023 Preliminary 주최 (T3N4CI0US & YESS)
++ T3N4CI0US CTF 2022 주최 (Latent_Hacker & T3N4CI0US)
++ T3N4CI0US CTF - Escape 주최
++ ESCAPE CTF 2023 Preliminary 주최 (T3N4CI0US & YESS)
  
  ***
 
 ## Contact     
  * 양지용(Jiyong Yang)
- * sy2n0@naver.com 개인 업무용 이메일 (for personal business)     
- * support@t3n4ci0us.kr [T3N4CI0US] 업무용 이메일 (for team business)
+ * sy2n0@taran.dev 개인 업무용 이메일 (for personal business)     
+ * support@taran.dev [Taran] 업무용 이메일 (for team business) 
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
