@@ -48,6 +48,11 @@
  
  ***
 
+## 🛰️ Activity
++ GZ::CTF Platform Korean Translate
+
+***
+
 ## Contact     
  * 양지용(Jiyong Yang)
  * sy2n0@taran.dev 개인 업무용 이메일 (for personal business)     
