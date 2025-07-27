@@ -6,6 +6,7 @@
 
 * 해군 AI 경진대회 본선
 * 화이트햇 콘테스트 2024 본선
+* GZ::CTF Platform Korean Translate
 * R.O.K NAVY - CERT ( 2024.06 ~ 2026.02 )
 * 백석대학교 NGMS LAB ( 2023.03 ~ )
 * 백석대학교 HUB ( 2023.03 ~ )
@@ -49,8 +50,10 @@
  
  ***
 
-## 🛰️ Activity
-+ GZ::CTF Platform Korean Translate
+## 🛰️ Project
++ HUB LAB Platform
++ HUB AttackBox
++ HUB CTF Platform
 
 ***
 
