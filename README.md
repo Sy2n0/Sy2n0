@@ -4,6 +4,7 @@
  
 ## Profile
 
+* CCE 2025 본선
 * 해군 AI 경진대회 본선
 * 화이트햇 콘테스트 2024 본선
 * GZ::CTF Platform Korean Translate
