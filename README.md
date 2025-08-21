@@ -55,6 +55,7 @@
 + HUB LAB Platform
 + HUB AttackBox
 + HUB CTF Platform
++ GZ::CTF Platform
 
 ***
 
