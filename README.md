@@ -4,9 +4,9 @@
  
 ## Profile
 
-* CCE 2025 본선
-* 해군 AI 경진대회 본선
-* 화이트햇 콘테스트 2024 본선
+* CCE 2025 본선 (Team Root or Die)
+* 해군 AI 경진대회 본선 (Team CERT)
+* 화이트햇 콘테스트 2024 본선 (Team 우승하면 전문하사)
 * GZ::CTF Platform Korean Translate
 * R.O.K NAVY - CERT ( 2024.06 ~ 2026.02 )
 * 백석대학교 NGMS LAB ( 2023.03 ~ )
@@ -61,8 +61,7 @@
 
 ## Contact     
  * 양지용(Jiyong Yang)
- * sy2n0@naver.com 개인 업무용 이메일 (for personal business)     
- * support@taran.dev [Taran] 업무용 이메일 (for team business) 
+ * sy2n0@naver.com
 
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
