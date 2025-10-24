@@ -4,6 +4,7 @@
  
 ## Profile
 
+* 화이트햇 콘테스트 2025 본선 (Team 1TSN0R1)
 * CCE 2025 본선 (Team Root or Die)
 * 해군 AI 경진대회 본선 (Team CERT)
 * 화이트햇 콘테스트 2024 본선 (Team 우승하면 전문하사)
