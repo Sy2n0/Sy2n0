@@ -4,6 +4,7 @@
  
 ## Profile
 
+* InsertCoinToPwn Leader (25.10.27 ~ )
 * 화이트햇 콘테스트 2025 본선 (Team 1TSN0R1)
 * CCE 2025 본선 (Team Root or Die)
 * 해군 AI 경진대회 본선 (Team CERT)
@@ -12,7 +13,7 @@
 * R.O.K NAVY - CERT ( 2024.06 ~ 2026.02 )
 * 백석대학교 NGMS LAB ( 2023.03 ~ )
 * 백석대학교 HUB ( 2023.03 ~ )
-* T3N4CI0US 팀장 ( 2019.05 ~ 2024.01 )
+* T3N4CI0US Leader ( 2019.05 ~ 2024.01 )
 * 인코그니토 2021 프로젝트 및 행사 참가 ( Anti-root )
 * KSCY 17 STAFF ( 청소년 )
 * 현대오토에버 화이트해커 양성 교육 ( 2022 & 우수 장학생 )
