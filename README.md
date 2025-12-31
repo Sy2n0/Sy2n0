@@ -4,12 +4,8 @@
  
 ## Profile
 
+* Ecological Disturbance Species (25.12.23 ~ )
 * InsertCoinToPwn (25.10.27 ~ )
-* 화이트햇 콘테스트 2025 본선 (Team 1TSN0R1)
-* CCE 2025 본선 (Team Root or Die)
-* 해군 AI 경진대회 본선 (Team CERT)
-* 화이트햇 콘테스트 2024 본선 (Team 우승하면 전문하사)
-* GZ::CTF Platform Korean Translate
 * R.O.K NAVY - CERT ( 2024.06 ~ 2026.02 )
 * 백석대학교 NGMS LAB ( 2023.03 ~ )
 * 백석대학교 HUB ( 2023.03 ~ )
@@ -34,22 +30,29 @@
 
 ***
 
-## 🚩 CTF Activity     
+## 🚩 Activity     
 
-+ 2021
-    + Tamil CTF 19등 ( 팀전 )
-    + Digital Overdose 30등 ( 팀전 )
-    + FweeFwop CTF 3등 ( 개인전 ) 🥉
-    + DamnCon 5등 ( 팀전 )
-    + TFC CTF 14등 ( 팀전 )
-    + Metared CTF 5th Stage 9등 ( 팀전 )
-    + niteCTF 13등 ( 팀전 )
-    
++ 2025
+    + 화이트햇 콘테스트 2025 본선 (Team 1TSN0R1)
+    + CCE 2025 본선 (Team Root or Die)
+
++ 2024
+    + 해군 AI 경진대회 본선 (Team CERT)
+    + 화이트햇 콘테스트 2024 본선 (Team 우승하면 전문하사)
+
 + 2022
     + CSC CTF 7등 ( 팀전 )
     + wtfctf 2022 8등 ( 팀전 )
     + Digital Overdose Conference 2022 CTF ( 팀전 )
-    
+
++ 2021
+    + FweeFwop CTF 3등 ( 개인전 ) 🥉
+    + DamnCon 5등 ( 팀전 )
+    + Metared CTF 5th Stage 9등 ( 팀전 )
+    + niteCTF 13등 ( 팀전 )
+    + TFC CTF 14등 ( 팀전 )
+    + Tamil CTF 19등 ( 팀전 )
+ 
   ***
     
  
@@ -63,10 +66,9 @@
  ***
 
 ## 🛰️ Project
-+ HUB LAB Platform
-+ HUB AttackBox
++ HUB ACADEMY Platform
 + HUB CTF Platform
-+ GZ::CTF Platform
++ GZ::CTF Platform (Korean Translate)
 
 ***
 
