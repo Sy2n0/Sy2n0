@@ -25,8 +25,12 @@
 
 ***
 
-## 👾 CVE
-* CVE-2025-XXXXX / ******
+## 👾 Discovered Vulnerabilities
+* XXXXX
+  - CVE-2025-XXXXX / ******
+ 
+* GHSA (Private – ID withheld)
+  - CVE: Pending (Request)
 
 ***
 
