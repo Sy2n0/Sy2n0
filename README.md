@@ -23,10 +23,12 @@
 
 ## 👾 Discovered Vulnerabilities
 
-- **[CVE-2025-69262](https://github.com/advisories/GHSA-2phv-j68v-wwqx)**: Command Injection via environment variable substitution in **pnpm**
-  - **Severity**: High (CVSS 7.6)
-  - **Description**: `.npmrc` 환경 변수 치환 및 `tokenHelper` 설정 시 발생하는 명령어 삽입 취약점을 발견하여 RCE 가능성 증명.
-  - **Status**: Fixed in pnpm v10.27.0
+#### [CVE-2025-69262] Command Injection in pnpm
+![Severity High](https://img.shields.io/badge/Severity-High-red) ![Status Fixed](https://img.shields.io/badge/Status-Fixed-green)
+
+- **Target**: [pnpm/pnpm](https://github.com/pnpm/pnpm)
+- **Summary**: 환경 변수 치환 로직을 악용한 OS 명령어 삽입 취약점. CI/CD 및 빌드 환경에서 임의 코드 실행 위험이 있음.
+- **Advisory**: [GHSA-2phv-j68v-wwqx](https://github.com/advisories/GHSA-2phv-j68v-wwqx)
 
 ***
 
