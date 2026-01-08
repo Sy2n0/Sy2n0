@@ -22,11 +22,11 @@
 ***
 
 ## 👾 Discovered Vulnerabilities
-* XXXXX
-  - CVE-2025-XXXXX / ******
- 
-* GHSA (Private – ID withheld)
-  - CVE: Pending (Request)
+
+- **[CVE-2025-69262](https://github.com/advisories/GHSA-2phv-j68v-wwqx)**: Command Injection via environment variable substitution in **pnpm**
+  - **Severity**: High (CVSS 7.6)
+  - **Description**: `.npmrc` 환경 변수 치환 및 `tokenHelper` 설정 시 발생하는 명령어 삽입 취약점을 발견하여 RCE 가능성 증명.
+  - **Status**: Fixed in pnpm v10.27.0
 
 ***
 
