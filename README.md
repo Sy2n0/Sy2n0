@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-## 22년째 주분야를 찾아다니는 학생
+## 23년째 주분야를 찾아다니는 학생
  
 ## Profile
 
-* Ecological Disturbance Species (25.12.23 ~ )
-* InsertCoinToPwn (25.10.27 ~ )
+* Google Cloud VRP - Honorable Mention ( 2026.01 )
+* Ecological Disturbance Species ( 2025.12.23 ~ )
+* InsertCoinToPwn ( 2025.10.27 ~ )
 * R.O.K NAVY - CERT ( 2024.06 ~ 2026.02 )
 * 백석대학교 NGMS LAB ( 2023.03 ~ )
 * 백석대학교 HUB ( 2023.03 ~ )
