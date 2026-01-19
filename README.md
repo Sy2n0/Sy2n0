@@ -25,10 +25,9 @@
 ## 👾 Discovered Vulnerabilities
 
 #### [CVE-2025-69262] Command Injection in pnpm
-![Severity High](https://img.shields.io/badge/Severity-High-red) ![Status Fixed](https://img.shields.io/badge/Status-Fixed-green)
 
 - **Target**: [pnpm/pnpm](https://github.com/pnpm/pnpm)
-- **Summary**: 환경 변수 치환 로직을 악용한 OS 명령어 삽입 취약점. CI/CD 및 빌드 환경에서 임의 코드 실행 위험이 있음.
+- **Summary**: 환경 변수 치환 로직을 악용한 OS 명령어 삽입 취약점. CI/CD 및 빌드 환경에서 임의 코드 실행 위험.
 - **Advisory**: [GHSA-2phv-j68v-wwqx](https://github.com/advisories/GHSA-2phv-j68v-wwqx)
 
 ***
