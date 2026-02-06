@@ -22,11 +22,23 @@
 
 ## 👾 Discovered Vulnerabilities
 
+#### [CVE-2026-1665] Command Injection in nvm
+
+- **Target**: [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
+- **Summary**: `nvm`이 `wget`으로 파일을 다운로드할 때 환경 변수 검증이 누락되어, 공격자가 쉘 명령어를 강제로 실행시킬 수 있는 커맨드 인젝션(Command Injection) 취약점
+- **Advisory**: [GHSA-4fc5-r4vr-8rp7](https://github.com/nvm-sh/nvm/security/advisories/GHSA-4fc5-r4vr-8rp7)
+
 #### [CVE-2025-69262] Command Injection in pnpm
 
 - **Target**: [pnpm/pnpm](https://github.com/pnpm/pnpm)
 - **Summary**: 환경 변수 치환 로직을 악용한 OS 명령어 삽입 취약점. CI/CD 및 빌드 환경에서 임의 코드 실행 위험.
 - **Advisory**: [GHSA-2phv-j68v-wwqx](https://github.com/advisories/GHSA-2phv-j68v-wwqx)
+
+#### [CVE-2025-14550] Potential denial-of-service vulnerability via repeated headers when using ASGI
+
+- **Target**: [django/django](https://github.com/django/django)
+- **Summary**: 중복된 HTTP 헤더를 처리할 때 문자열을 반복해서 합치는 비효율적인 방식(Super-linear) 때문에, 공격자가 적은 비용으로 서버를 마비시킬 수 있는 서비스 거부(DoS) 취약점
+- **Release**: [Django Security release](https://www.djangoproject.com/weblog/2026/feb/03/security-releases/)
 
 ***
 
