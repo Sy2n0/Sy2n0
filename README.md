@@ -38,7 +38,7 @@
 
 - **Target**: [django/django](https://github.com/django/django)
 - **Summary**: 중복된 HTTP 헤더를 처리할 때 문자열을 반복해서 합치는 비효율적인 방식(Super-linear) 때문에, 공격자가 적은 비용으로 서버를 마비시킬 수 있는 서비스 거부(DoS) 취약점
-- **Release**: [Django Security release](https://www.djangoproject.com/weblog/2026/feb/03/security-releases/)
+- **Advisory**: [GHSA-33mw-q7rj-mjwj](https://github.com/advisories/GHSA-33mw-q7rj-mjwj)
 
 ***
 
