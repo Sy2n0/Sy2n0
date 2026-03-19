@@ -2,6 +2,7 @@
 
 ## Profile
 
+* ExMoK ( 2026.03 ~ )
 * Google Cloud VRP - Honorable Mention ( 2026.01 )
 * Ecological Disturbance Species ( 2025.12.23 ~ )
 * InsertCoinToPwn ( 2025.10.27 ~ )
