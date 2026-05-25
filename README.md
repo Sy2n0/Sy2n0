@@ -8,7 +8,6 @@
 * R.O.K NAVY - CERT ( 2024.06 ~ 2026.02 )
 * 백석대학교 NGMS LAB ( 2023.03 ~ )
 * 백석대학교 HUB ( 2023.03 ~ )
-* T3N4CI0US ( 2019.05 ~ 2024.01 )
 * 인코그니토 2021 프로젝트 및 행사 참가 ( Anti-root )
 * KSCY 17 STAFF ( 청소년 )
 * 현대오토에버 화이트해커 양성 교육 ( 2022 & 우수 장학생 )
@@ -43,6 +42,10 @@
 
 ## 🚩 Activity     
 
++ 2026
+    + Break The Syntax CTF 2026 2nd (Team W4llz)
+    + TJCTF 2026 4th (Team W4llz)
+
 + 2025
     + 화이트햇 콘테스트 2025 본선 (Team 1TSN0R1)
     + CCE 2025 본선 (Team Root or Die)
@@ -50,30 +53,6 @@
 + 2024
     + 해군 AI 경진대회 본선 (Team CERT)
     + 화이트햇 콘테스트 2024 본선 (Team 우승하면 전문하사)
-
-+ 2022
-    + CSC CTF 7등 ( 팀전 )
-    + wtfctf 2022 8등 ( 팀전 )
-    + Digital Overdose Conference 2022 CTF ( 팀전 )
-
-+ 2021
-    + FweeFwop CTF 3등 ( 개인전 ) 🥉
-    + DamnCon 5등 ( 팀전 )
-    + Metared CTF 5th Stage 9등 ( 팀전 )
-    + niteCTF 13등 ( 팀전 )
-    + TFC CTF 14등 ( 팀전 )
-    + Tamil CTF 19등 ( 팀전 )
- 
-  ***
-    
- 
-## 🚩 CTF Hosting   
-+ T3N4CI0US CTF 2022 주최 및 출제 (Latent_Hacker & T3N4CI0US)
-    - Category : Pwnable, Crypto
-+ T3N4CI0US CTF - Escape 주최 및 출제
-    - Category : Pwnable, Crypto, Reversing, Web, Forensic
-+ ESCAPE CTF 2023 Preliminary 주최 (T3N4CI0US & YESS)
-    - Category : Pwnable
  
  ***
 
