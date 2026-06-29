@@ -1,73 +1,77 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![CVEs](https://img.shields.io/badge/CVEs-4-red?style=for-the-badge)
 
-## Profile
+## About Me
 
-* [W4llz](https://w4llz.me/) ( 2026.04 ~ )
-* ExMoK ( 2026.03 ~ )
-* Google Cloud VRP - Honorable Mention ( 2026.01 )
-* R.O.K NAVY - CERT ( 2024.06 ~ 2026.02 )
-* 백석대학교 NGMS LAB ( 2023.03 ~ )
-* 백석대학교 HUB ( 2023.03 ~ )
-* 인코그니토 2021 프로젝트 및 행사 참가 ( Anti-root )
-* KSCY 17 STAFF ( 청소년 )
-* 현대오토에버 화이트해커 양성 교육 ( 2022 & 우수 장학생 )
+- Security Researcher / CTF Player @[W4llz](https://w4llz.me/)
 
 ***
 
-## 👾 Discovered Vulnerabilities
+## Awards
 
-#### [CVE-2026-48718] Vulnerability discovered in Firebird
-
--   (Technical details under coordinated disclosure until official release)
-
-#### [CVE-2026-1665] Command Injection in nvm
-
-- **Target**: [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-- **Summary**: `nvm`이 `wget`으로 파일을 다운로드할 때 환경 변수 검증이 누락되어, 공격자가 쉘 명령어를 강제로 실행시킬 수 있는 커맨드 인젝션(Command Injection) 취약점
-- **Advisory**: [GHSA-4fc5-r4vr-8rp7](https://github.com/nvm-sh/nvm/security/advisories/GHSA-4fc5-r4vr-8rp7)
-
-#### [CVE-2025-69262] Command Injection in pnpm
-
-- **Target**: [pnpm/pnpm](https://github.com/pnpm/pnpm)
-- **Summary**: 환경 변수 치환 로직을 악용한 OS 명령어 삽입 취약점. CI/CD 및 빌드 환경에서 임의 코드 실행 위험.
-- **Advisory**: [GHSA-2phv-j68v-wwqx](https://github.com/advisories/GHSA-2phv-j68v-wwqx)
-
-#### [CVE-2025-14550] Potential denial-of-service vulnerability via repeated headers when using ASGI
-
-- **Target**: [django/django](https://github.com/django/django)
-- **Summary**: 중복된 HTTP 헤더를 처리할 때 문자열을 반복해서 합치는 비효율적인 방식(Super-linear) 때문에, 공격자가 적은 비용으로 서버를 마비시킬 수 있는 서비스 거부(DoS) 취약점
-- **Advisory**: [GHSA-33mw-q7rj-mjwj](https://github.com/advisories/GHSA-33mw-q7rj-mjwj)
-  
-***
-
-## 🚩 Activity     
-
-+ 2026
-    + Break The Syntax CTF 2026 2nd (Team W4llz)
-    + TJCTF 2026 4th (Team W4llz)
-
-+ 2025
-    + 화이트햇 콘테스트 2025 본선 (Team 1TSN0R1)
-    + CCE 2025 본선 (Team Root or Die)
-
-+ 2024
-    + 해군 AI 경진대회 본선 (Team CERT)
-    + 화이트햇 콘테스트 2024 본선 (Team 우승하면 전문하사)
- 
- ***
-
-## 🛰️ Project
-+ HUB ACADEMY Platform
-+ HUB CTF Platform
-+ GZ::CTF Platform (Korean Translate)
+| Year | Name | Award |
+|------|------|-------|
+| 2026 | W4llz | SekaiCTF 2026 2nd |
+| 2026 | W4llz | Break The Syntax CTF 2026 2nd |
+| 2025 | Jiyong | Google Cloud VRP (Vulnerability Reward Program) - Honorable Mention |
 
 ***
 
-## Contact     
- * 양지용(Jiyong Yang)
- * i@sy2n0.me / 개인 이메일
- * contact@sy2n0.me / 개인 업무용 이메일 (for business)
+## CVEs
 
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+<details>
+<summary><b>CVE-2026-48718 — Firebird</b></summary>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+**Status**
+- Coordinated disclosure (technical details will be published after the embargo).
+
+</details>
+
+<details>
+<summary><b>CVE-2026-1665 — Command Injection in nvm</b></summary>
+
+**Target**
+- nvm-sh/nvm
+
+**Summary**
+- Command injection caused by insufficient validation of environment variables during `wget` invocation.
+
+**References**
+- Advisory: https://github.com/nvm-sh/nvm/security/advisories/GHSA-4fc5-r4vr-8rp7
+- CVE: https://www.cve.org/CVERecord?id=CVE-2026-1665
+
+</details>
+
+<details>
+<summary><b>CVE-2025-69262 — Command Injection in pnpm</b></summary>
+
+**Target**
+- pnpm/pnpm
+
+**Summary**
+- Command injection through environment variable substitution, potentially leading to arbitrary code execution in CI/CD and build environments.
+
+**References**
+- Advisory: https://github.com/advisories/GHSA-2phv-j68v-wwqx
+
+</details>
+
+<details>
+<summary><b>CVE-2025-14550 — Denial of Service in Django</b></summary>
+
+**Target**
+- django/django
+
+**Summary**
+- Super-linear processing of repeated HTTP headers in the ASGI request path, enabling a potential denial-of-service attack.
+
+**References**
+- Advisory: https://github.com/advisories/GHSA-33mw-q7rj-mjwj
+
+</details>
+
+***
+
+## Contact
+
+- **Name**: Jiyong Yang (양지용)
+- **Contact**: contact@sy2n0.me
