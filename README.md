@@ -28,6 +28,22 @@
 ## CVEs
 
 <details>
+<summary><b>CVE-2026-15921 — LTS Alias Path Traversal in nvm</b></summary>
+
+**Target**
+- nvm-sh/nvm
+
+**Summary**
+- Path traversal vulnerability caused by insufficient validation of mirror-supplied LTS codenames.
+- A malicious or compromised Node.js mirror could write outside `$NVM_DIR/alias/lts` and overwrite shell startup files such as `~/.bashrc`, `~/.zshrc`, or `~/.profile`, potentially leading to command execution when the shell starts.
+
+**References**
+- Advisory: https://github.com/nvm-sh/nvm/security/advisories/GHSA-4ghp-wxpw-rhpg
+- CVE: https://www.cve.org/CVERecord?id=CVE-2026-15921
+
+</details>
+
+<details>
 <summary><b>CVE-2026-48718 — Firebird</b></summary>
 
 **Status**
