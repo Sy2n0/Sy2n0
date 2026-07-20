@@ -11,6 +11,7 @@
 
 | Year | Name | Award |
 |------|------|-------|
+| 2026 | Jiyong | NASA VDP (Vulnerability Disclosure Program) - Hall of Fame |
 | 2026 | W4llz | NO HACK NO CTF 2026 1st | 
 | 2026 | W4llz | SekaiCTF 2026 2nd |
 | 2026 | W4llz | Break The Syntax CTF 2026 2nd |
