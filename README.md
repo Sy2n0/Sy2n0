@@ -1,4 +1,4 @@
-![CVEs](https://img.shields.io/badge/CVEs-5-red?style=for-the-badge)
+![CVEs](https://img.shields.io/badge/CVEs-6-red?style=for-the-badge)
 ![Hall-of-Fame](https://img.shields.io/badge/Hall_of_Fame-2-green?style=for-the-badge)
 
 ## About Me
@@ -21,12 +21,28 @@
 
 ## Hall of Fame
 - **[NASA (cFS)](https://github.com/nasa/cFS)** 
-  - [Core Flight System](https://github.com/nasa/cFS) 
+  - [Core Flight System](https://github.com/nasa/cFS)
+
 - **[Google Bug Hunters](https://bughunters.google.com/)**
   - [Google Cloud VRP](https://bughunters.google.com/leaderboard) – [ingress-gce](https://github.com/GoogleCloudPlatform/ingress-gce) S2 Severity Issue report
 ***
 
 ## CVEs
+
+<details>
+<summary><b>CVE-2026-58043 — Permission Model Filesystem Allowlist Bypass in Node.js</b></summary>
+
+**Target**
+- nodejs/node
+
+**Summary**
+- Improper enforcement in the Node.js Permission Model that can over-grant filesystem access across radix-tree prefix boundaries.
+- Under `--permission`, an attacker granted access to one path could abuse boundary handling to read from or write to paths outside the intended filesystem allowlist.
+- Affected: Node.js main, 22.x, 24.x, 26.x.
+
+**References**
+- CVE: https://hackerone.com/hacktivity/cve_discovery?id=CVE-2026-58043
+</details>
 
 <details>
 <summary><b>CVE-2026-15921 — LTS Alias Path Traversal in nvm</b></summary>
