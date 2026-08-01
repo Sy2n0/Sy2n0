@@ -20,8 +20,7 @@
 ***
 
 ## Hall of Fame
-- **[NASA (cFS)](https://github.com/nasa/cFS)** 
-  - [Core Flight System](https://github.com/nasa/cFS)
+- **[NASA VDP](https://bugcrowd.com/engagements/nasa-vdp)**
 
 - **[Google Bug Hunters](https://bughunters.google.com/)**
   - [Google Cloud VRP](https://bughunters.google.com/leaderboard) – [ingress-gce](https://github.com/GoogleCloudPlatform/ingress-gce) S2 Severity Issue report
