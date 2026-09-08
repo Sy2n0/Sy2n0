@@ -1,5 +1,5 @@
-![CVEs](https://img.shields.io/badge/CVEs-6-red?style=for-the-badge)
-![Hall-of-Fame](https://img.shields.io/badge/Hall_of_Fame-2-green?style=for-the-badge)
+![CVEs](https://img.shields.io/badge/CVEs-7-red?style=for-the-badge)
+![Hall-of-Fame](https://img.shields.io/badge/Hall_of_Fame-3-green?style=for-the-badge)
 
 ## About Me
 
@@ -21,7 +21,7 @@
 ## CVEs
 
 <details>
-<summary><b>CVE-2026-81379 — Not failing securely ('failing open') in Visual Studio Code allows an unauthorized attacker to bypass a security feature over a network.</b></summary>
+<summary><b>CVE-2026-81379 — VS Code Marketplace Policy Bypass via URL Canonicalization</b></summary>
 
 **Target**
 - microsoft/vscode
