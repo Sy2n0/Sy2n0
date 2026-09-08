@@ -11,22 +11,33 @@
 
 | Year | Name | Award |
 |------|------|-------|
+| 2026 | Jiyong | MSRC - Special Mentions |
 | 2026 | Jiyong | NASA VDP (Vulnerability Disclosure Program) - Hall of Fame |
-| 2026 | W4llz | NO HACK NO CTF 2026 1st | 
 | 2026 | W4llz | SekaiCTF 2026 2nd |
-| 2026 | W4llz | Break The Syntax CTF 2026 2nd |
 | 2025 | Jiyong | Google Cloud VRP (Vulnerability Reward Program) - Honorable Mention |
 
 ***
 
-## Hall of Fame
-- **[NASA VDP](https://bugcrowd.com/engagements/nasa-vdp)**
-
-- **[Google Bug Hunters](https://bughunters.google.com/)**
-  - [Google Cloud VRP](https://bughunters.google.com/leaderboard) – [ingress-gce](https://github.com/GoogleCloudPlatform/ingress-gce) S2 Severity Issue report
-***
-
 ## CVEs
+
+<details>
+<summary><b>CVE-2026-81379 — Not failing securely ('failing open') in Visual Studio Code allows an unauthorized attacker to bypass a security feature over a network.</b></summary>
+
+**Target**
+- microsoft/vscode
+
+**Summary**
+
+- VS Code incorrectly derives the enterprise-policy identity of a GitHub Agent Plugin marketplace before fully canonicalizing its repository URL.
+- An attacker can craft a repository path containing traversal components (`../`) so that VS Code validates it as an allowlisted marketplace while Git resolves the same URL to an attacker-controlled repository.
+- This discrepancy allows an unauthorized marketplace to bypass `chat.plugins.strictMarketplaces`, install an attacker-controlled Agent Plugin, and execute its configured hooks during normal chat interactions.
+- The vulnerability is a security feature bypass that can lead to remote code execution (CWE-180: Validate Before Canonicalize).
+
+
+**References**
+- CVE: [https://hackerone.com/hacktivity/cve_discovery?id=CVE-2026-58043](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81379)
+</details>
+
 
 <details>
 <summary><b>CVE-2026-58043 — Permission Model Filesystem Allowlist Bypass in Node.js</b></summary>
