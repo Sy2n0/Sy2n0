@@ -35,7 +35,7 @@
 
 
 **References**
-- CVE: [https://hackerone.com/hacktivity/cve_discovery?id=CVE-2026-58043](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81379)
+- CVE: https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-81379
 </details>
 
 
