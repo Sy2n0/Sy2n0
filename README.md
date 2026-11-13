@@ -1,4 +1,4 @@
-![CVEs](https://img.shields.io/badge/CVEs-7-red?style=for-the-badge)
+![CVEs](https://img.shields.io/badge/CVEs-11-red?style=for-the-badge)
 ![Hall-of-Fame](https://img.shields.io/badge/Hall_of_Fame-3-green?style=for-the-badge)
 
 ## About Me
