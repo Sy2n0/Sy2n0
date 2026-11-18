@@ -1,4 +1,4 @@
-![CVEs](https://img.shields.io/badge/CVEs-11-red?style=for-the-badge)
+![CVE](https://img.shields.io/badge/CVEs-11-red?style=for-the-badge)
 
 ## About Me
 
