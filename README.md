@@ -4,8 +4,6 @@
 
 - Security Researcher / CTF Player @[W4llz](https://w4llz.me/)
 
-***
-
 ## Contact
 
 - **Name**: Jiyong Yang (양지용)
